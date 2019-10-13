@@ -2,7 +2,7 @@
 =======================
 A sample project following TDD with Spring Boot and Spring Data JPA
                                             
-In this project I am trying to implement the follwing requests as requested:
+In this project I am trying to implement the following requirement:
 
 Build the backend service needed to support a web application to that allows a user to view transactions on any of the
 accounts they hold.
