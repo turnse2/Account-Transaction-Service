@@ -24,11 +24,11 @@ Detailed version indications you can find in the file `pom.xml`.
 By  `mvn clean test`   all necessary libraries will be fetched, the project will be compiled and the test suite will be executed.
 
 After this is working you can import the Maven project into your Java IDE 
-(Spring Tool Suite o Intellij).
+(Spring Tool Suite or Intellij).
 
-You can run the application (a REST server) in your IDE by running class `com.anz.wholesale.account.AccountTransactionServiceApplication` or on the command line after `mvn package` by `java -jar target/account-transaction-servcie-0.0.1-SNAPSHOT.jar`. In the last lines of the log you will see the number of the port (usually 8080), on which the server will listen. You can stop it by typing &lt;Ctrl/c&gt;.
+You can run the application (a REST server) in your IDE by running class `com.anz.wholesale.account.AccountTransactionServiceApplication` or on the command line after `mvn package` by `java -jar target/account-transaction-servcie-0.0.1-SNAPSHOT.jar`. In the last lines of the log you will see the number of the port (usually 8080), on which the server will listen. You can stop it by typing Ctrl/c;.
 
-- An overview of the REST endpoints is given at REST-API.md].
+- An overview of the REST endpoints is given at REST-API.md.
 -
 - Tests are run against preloaded in-memory H2 database. This is configured in file [src/resources/application.properties]
 
