@@ -1,4 +1,4 @@
-﻿ANZ Wholesale Engineering Sample Project – Backend Development
+
 =======================
 A sample project following TDD with Spring Boot and Spring Data JPA
                                             
