@@ -1,4 +1,4 @@
-# Documentation of the REST Endpoints of Account transaction Service Application
+# Documentation of the REST Endpoints of Account Transaction Service application
 | Verb   | Resource URI with Request Params | Effect                                   |Example URL|
 | ------ | -------------------------------- | ---------------------------------------- |----------------------------|
 | GET    | /api/users/{id}/accounts                    | Get all the accounts belongs to the user with given **user Id**. Requires, that the current user is the owner of the given account.                    |http://localhost:8080/api/users/1/accounts|
