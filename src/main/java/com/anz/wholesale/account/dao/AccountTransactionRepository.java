@@ -7,8 +7,6 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.data.repository.query.Param;
 
-import java.util.List;
-
 
 /**A Repository for AccountTransaction entities implemented with Spring Data JPA.
  * @author Dennis Hu
